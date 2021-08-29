@@ -1,0 +1,16 @@
+Documentación del proyecto.
+
+-En el index:
+
+Agregue la descripcion:
+"Diseño gráfico programación tipografía servicios comunicacion social"
+
+Agregue las keywords:
+"tipografía, lettering, desarrollo web, diseño gráfico"
+
+-En contacto:
+
+Modifique los titulos: 
+Modifique el h1 por un h2
+
+
